@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geeky-akash
 - 👀 I’m interested in tech, gaming and problem-solving
-- 🌱 I’m currently learning C,C++,Python,Google Ads
-- 💞️ I’m looking to collaborate on innovative ideas that need technical assistance
+- 🌱 I’m currently learning C,Python,Networking & Cyber Sec.
+- 💞️ I’m looking to work on innovative ideas
 - 📫 How to reach me? I'm on instagram : @geeky.akash
 
 <!---
